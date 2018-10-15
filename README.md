@@ -4,22 +4,21 @@
 Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+(October 15, 2018)
 
 ### Student Name:  
-(First and Last Name)
+(Hannah Rittenhouse)
 
 ### Project Description:
 (In your own words, briefly describe the assignment.)
 
 ### View Project:
-(Replace this statement with your GitHub Page URL that was created when you 
- published the project.)
+(https://hlr16.github.io/lesson4_javascript1/.)
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. (Learned the method getElementById().)
+2. (Converted dollars to percentage of a total.)
+3. (Learned how to program clearing a form.)
 
 
 
